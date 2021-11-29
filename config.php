@@ -1,6 +1,6 @@
 <?php
-const DB_PASSWORD = "hjR2Q3HvemryyNw3bZcF";
-const DB_HOST = "172.104.33.144";
+const DB_PASSWORD = "123456";
+const DB_HOST = "127.0.0.1";
 const DB_PORT = "3306";
 const DB_NAME = "webinar";
 const DB_USER = "root";
